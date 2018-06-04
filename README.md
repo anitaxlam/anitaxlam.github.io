@@ -1,6 +1,6 @@
-#Anita Lam COMP 20 Lab 4
+# Anita Lam COMP 20 Lab 4
 
-##Correctly Implemented
+## Correctly Implemented
 **Generally**
 * All id and class selectors
 
@@ -14,11 +14,11 @@
 **Bio**
 * Centering of all the texts
 
-##Future Improvements
+## Future Improvements
 * Give the resume a more responsive design for resizing
 
-##Collaboration
+## Collaboration
 I did not collaborate with anyone on this assignment
 
-##Hours Spent to Complete
+## Hours Spent to Complete
 Around 6 to 8 hours
