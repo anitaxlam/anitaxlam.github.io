@@ -4,37 +4,58 @@ body {
 }
 
 h1 {
+	padding-top: 20px;
 	font-weight: bold;
-	font-size: 50px;
+	font-size: 40px;
 }
 
 h2 {
-	font-size: 35px;
-	width: 700px;
+	font-size: 24px;
+	width: 800px;
 	border-bottom: 2px solid #000000;
 	padding-bottom: 5px;
 }
 
 p {
 	font-weight: bold;
-	font-size: 24px;
+	font-size: 18px;
+	line-height: 70%
 }
 
 ul {
 	list-style-type: square;
-	font-size: 24px;
+	font-size: 18px;
 }
 
 .datetime {
 	font-weight: normal;
-	font-style: 24px;
+	font-style: 18px;
 }
 
-#navbar {
+a {
 	font-weight: bold;
-	text-align: center;
+	font-size: 18px;
+	color: #FFFFFF;
 	background-color: #D3D3D3;
 	text-decoration: none;
+	text-align: center;
+	padding: 20px;
 
+}
+
+a:link {
+	color: white;
+}
+
+a:visited {
+	color: white;
+}
+
+a:hover {
+	color: #A2A2A2;
+}
+
+a:active {
+	color: #A2A2A2;
 }
 
