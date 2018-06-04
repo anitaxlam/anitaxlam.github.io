@@ -4,7 +4,7 @@ body {
 }
 
 h1 {
-	padding-top: 20px;
+	padding-bottom: 10px;
 	font-weight: bold;
 	font-size: 40px;
 }
@@ -29,7 +29,7 @@ ul {
 
 .datetime {
 	font-weight: normal;
-	font-style: 18px;
+	font-size: 18px;
 }
 
 a {
@@ -57,5 +57,9 @@ a:hover {
 
 a:active {
 	color: #A2A2A2;
+}
+
+#navbar {
+	text-align: right;
 }
 
